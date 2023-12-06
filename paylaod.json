@@ -1,0 +1,7 @@
+{
+    "destinations": ["example.com", "google.com"],
+    "max_hops": 30,
+    "timeout": 2
+  }
+
+  
